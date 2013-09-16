@@ -1,0 +1,2 @@
+{"ts":1379368198576,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1379368320962,"patch":[[{"diffs":[[1,"# Ignore bundler config.\r\n/.bundle\r\n\r\n# Ignore the default SQLite database.\r\n/db/*.sqlite3\r\n/db/*.sqlite3-journal\r\n\r\n# Ignore all logfiles and tempfiles.\r\n/log/*.log\r\n/tmp\r\n\r\n# Ignore other unneeded files.\r\ndatabase.yml\r\ndoc/\r\n*.swp\r\n*~\r\n.project\r\n.DS_Store\r\n.idea\r\n.secret"]],"start1":0,"start2":0,"length1":0,"length2":273}]],"length":273,"saved":false}
